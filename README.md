@@ -13,31 +13,27 @@
 ## Implementación de actores de peliculas y series de Tv
 &nbsp;
 &nbsp;
-|  Características |  Información |
+|  Característica |  Información |
 | :------------: | :------------: |
-| **Nombre**  |  **Practica 15.**  |
-| **Descripción**  | Aplicación desarrollada en Flutter en la que se muestran resultados de al aire, populares y mejores evaluados. <br> Dentro de esta aplicación se comienza el contexto de peliculas, en el cual se tiene que presentar los diferentes poster de las peliculas mas populares. utilizando la conexion de la api de moviedb. Para esto, se hacen modificaciones de estilización. Como cambio de colores, cambio de fuente y un icono diferente al trabajado en practicas anteriores. esta práctica la cual desarrollo con el uso de Flutter, dado esto, el proposito es crear un catalogo de pelicualas y series que utilizan en API de TheMovieDB, anteriormente ocupada de la misma forma en las practicas anteriores. Esta aplicacion en su interfaz muestra un menu lateral que ayuda a poder navegar dentro de la misma. De igual forma, se emplea una navegacion entre pantallas donde al momento de seleccionar una pelicula, esta te lleva directamente a la misma.|
-|  **Fecha de Carga** | 25/10/23  |
+| Nombre  |  Práctica 15: Creacion de una Api Rest para la aplicacion del videojuego. |
+| Descripción  | Esta aplicación con el nombre de Api Rest para la aplicación del videojuego, es un CRUD que se conectara a la aplicación integradora, el cual se usa para referirse a las funciones básicas en bases de datos o la capa de persistencia en un software, en pocas palabras es un acrónimo para las maneras en las que se puede operar sobre información almacenada. Dicha API se ocupara para el juego guardianes de la flora|
+|  Fecha de Actividad  |  08 de noviembre del 2023  |
 
+&nbsp;
+&nbsp;
+
+## Screenshot 
+
+|  SS de Peticiones| SS de Peticiones |    
+| :------------: | :------------: | 
+|  <img src="https://i.postimg.cc/gjx3TSzm/Whats-App-Image-2023-11-10-at-10-14-56.jpg"/> | <img src="https://i.postimg.cc/YS8gqKjt/Whats-App-Image-2023-11-10-at-10-15-29.jpg"/>  |
+|  <img src="https://i.postimg.cc/kDrRh7Yv/Whats-App-Image-2023-11-10-at-10-16-01.jpg"/> | <img src="https://i.postimg.cc/DzCgpbrQ/Whats-App-Image-2023-11-10-at-10-16-59.jpg"/> |
+|  <img src="https://i.postimg.cc/d39DnGdw/Whats-App-Image-2023-11-10-at-10-16-35.jpg"/> | <img src="https://i.postimg.cc/FR5R4TVh/Whats-App-Image-2023-11-10-at-10-17-31.jpg"/>  |
 &nbsp;
 &nbsp;
 
 &nbsp;
 &nbsp;
-
-<br>
-
-[![Whats-App-Image-2023-11-10-at-10-14-56.jpg](https://i.postimg.cc/gjx3TSzm/Whats-App-Image-2023-11-10-at-10-14-56.jpg)](https://postimg.cc/ctNKKctb)
-
-[![Whats-App-Image-2023-11-10-at-10-15-29.jpg](https://i.postimg.cc/YS8gqKjt/Whats-App-Image-2023-11-10-at-10-15-29.jpg)](https://postimg.cc/2qb32t4t)
-
-[![Whats-App-Image-2023-11-10-at-10-16-01.jpg](https://i.postimg.cc/kDrRh7Yv/Whats-App-Image-2023-11-10-at-10-16-01.jpg)](https://postimg.cc/0KfNz1sz)
-
-[![Whats-App-Image-2023-11-10-at-10-16-59.jpg](https://i.postimg.cc/DzCgpbrQ/Whats-App-Image-2023-11-10-at-10-16-59.jpg)](https://postimg.cc/v1VfcTSD)
-
-[![Whats-App-Image-2023-11-10-at-10-16-35.jpg](https://i.postimg.cc/d39DnGdw/Whats-App-Image-2023-11-10-at-10-16-35.jpg)](https://postimg.cc/hQfStzp5)
-
-[![Whats-App-Image-2023-11-10-at-10-17-31.jpg](https://i.postimg.cc/FR5R4TVh/Whats-App-Image-2023-11-10-at-10-17-31.jpg)](https://postimg.cc/GBKrPJff)
 
 
 
